@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentToActivityViceVersa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EnterActivity">Enter Text  to send to Fragment</string>
+    <string name="SendToFragment">Send To Fragment</string>
+    <string name="EnterFragment">Enter Text To send to Activity</string>
+    <string name="sendToActivity">Send to Activity</string>
+</resources>
